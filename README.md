@@ -68,8 +68,6 @@ function deleteUserData() {
 
 ```javascript
 function updateUserData(nameToUpdate, newAge) {
-    
-}
 ```
 
 Функція питає користувача про новий вік для конкретного імені та оновлює відповідні дані в файлі.
